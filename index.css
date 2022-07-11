@@ -6,7 +6,7 @@ body{
 .color-tomato{
     color: tomato;
 }
-section{
+.flexible-container{
     display: flex;
     text-align: justify;
     margin-bottom: 90px;
@@ -35,4 +35,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
+}
+#rating{
+    color: tomato;
 }
