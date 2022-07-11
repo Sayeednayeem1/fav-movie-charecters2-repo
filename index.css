@@ -39,3 +39,16 @@ body{
 #rating{
     color: tomato;
 }
+.iron-witcher{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    width: 50%;
+    padding-left: 5px;
+    padding: 10px;
+    margin: 40px 70px;
+}
+.ratings{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
