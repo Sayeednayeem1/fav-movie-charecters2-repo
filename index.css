@@ -52,3 +52,12 @@ body{
     background-repeat: no-repeat;
     background-position: left;
 }
+#iron-man{
+    border-left: 5px solid tomato;
+}
+#witcher{
+    border-left: 5px solid blue;
+}
+#footer{
+    text-align: center;
+}
