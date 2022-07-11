@@ -9,6 +9,7 @@ body{
 section{
     display: flex;
     text-align: justify;
+    margin-bottom: 90px;
 }
 .half-width{
     width: 50%;
@@ -28,5 +29,10 @@ section{
 }
 .banner{
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.banner-2{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
     background-repeat: no-repeat;
 }
